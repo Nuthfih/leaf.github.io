@@ -146,13 +146,13 @@
   .about-content p{
     color: white;
     font-size: 20px;
-    margin: 2em 0 3em;
+    margin: 2em 0;
   }
 
-  table{
+  .table{
     color: white;
     font-size: 20px;
-    margin: 2em 0 3em;
+    text-align: center;
   }
 
   .footer {
