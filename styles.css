@@ -7,10 +7,13 @@
     list-style: none;
   }
   
+  html{
+    scroll-behavior: smoothg;
+  }
+
   .header {
     position: fixed;
     top: 0;
-    bottom: 0;
     width: 100%;
     padding: 35px 12%;
     background-color: rgba(0, 0, 0, 0.8);
