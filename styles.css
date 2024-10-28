@@ -8,6 +8,7 @@
   }
   
   .header {
+    position: fixed;
     top: 0;
     bottom: 0;
     width: 100%;
@@ -190,3 +191,9 @@
     border: 2px solid aqua;
   }
   
+  .footer .copyright{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+  }
